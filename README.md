@@ -27,3 +27,8 @@ MICrONS (v1300): https://spelunker.cave-explorer.org/#!middleauth+https://global
 Cheatsheet: https://docs.google.com/document/d/1bRGETwCIJEnwK7LseVLNBXwRMDPiHDU5s3eTJviyPvM/edit?usp=sharing
 
 More curated neuroglancer examples for MICrONS available at [the MICrONS Explorer Gallery](https://www.microns-explorer.org/gallery-mm3)
+
+##
+Authorship:
+2025 class developed by Sven Dorkenwald and Bethanny Danskin
+2026 class delivered by Forrest Collman and Bethanny Danskin
