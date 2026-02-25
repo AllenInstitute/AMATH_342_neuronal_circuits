@@ -22,7 +22,7 @@ Notebook: https://github.com/sdorkenw/AMATH_342_neuronal_circuits/blob/main/Mode
 
 Neuroglancer is a web-based interface to view electron microscopy (EM), cell segmentation data, neuropil, and brain meshes, as well as annotations.
 
-MICrONS (v1300): https://spelunker.cave-explorer.org/#!middleauth+https://global.daf-apis.com/nglstate/api/v1/5329535416401920 
+MICrONS (v1300): https://spelunker.cave-explorer.org/#!middleauth+https://global.daf-apis.com/nglstate/api/v1/6745900176113664
 
 Cheatsheet: https://docs.google.com/document/d/1bRGETwCIJEnwK7LseVLNBXwRMDPiHDU5s3eTJviyPvM/edit?usp=sharing
 
