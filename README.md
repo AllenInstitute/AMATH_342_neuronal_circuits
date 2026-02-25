@@ -28,7 +28,7 @@ Cheatsheet: https://docs.google.com/document/d/1bRGETwCIJEnwK7LseVLNBXwRMDPiHDU5
 
 More curated neuroglancer examples for MICrONS available at [the MICrONS Explorer Gallery](https://www.microns-explorer.org/gallery-mm3)
 
-##
-Authorship:
+## Authorship:
 2025 class developed by Sven Dorkenwald and Bethanny Danskin
+
 2026 class delivered by Forrest Collman and Bethanny Danskin
