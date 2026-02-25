@@ -5,17 +5,17 @@ Lecture slides: https://docs.google.com/presentation/d/1ZyXc2zBzS2KMydFA2fvLIilq
 
 ## Lecture notebooks 
 
-CAVE setup: https://github.com/sdorkenw/AMATH_342_neuronal_circuits/blob/main/CAVE_account_setup.ipynb
+CAVE setup: https://github.com/AllenInstitute/AMATH_342_neuronal_circuits/blob/main/CAVE_account_setup.ipynb
 
 Programmatic data access:
-https://github.com/sdorkenw/AMATH_342_neuronal_circuits/blob/main/mouse_visual_cortex_connectivity_MICrONS.ipynb
+https://github.com/AllenInstitute/AMATH_342_neuronal_circuits/blob/main/mouse_visual_cortex_connectivity_MICrONS.ipynb
 
 Firing rate model: 
-https://github.com/sdorkenw/AMATH_342_neuronal_circuits/blob/main/Modelling_local_circuits.ipynb
+https://github.com/AllenInstitute/AMATH_342_neuronal_circuits/blob/main/Modelling_local_circuits.ipynb
 
 ## Homework
 
-Notebook: https://github.com/sdorkenw/AMATH_342_neuronal_circuits/blob/main/Modelling_local_circuits_HW.ipynb
+Notebook: https://github.com/AllenInstitute/AMATH_342_neuronal_circuits/blob/main/Modelling_local_circuits_HW.ipynb
 
 
 ## Interactive exploration of the dataset with Neuroglancer
